@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NasserNaif
 - 👀 I’m interested in Mobile Devolpment && Web Devolepment 
-- 🌱 I’m currently learning Xamarin Forms
-- 💞️ I’m looking to collaborate on Mobile Apps
+- 🌱 I’m currently learning React.js && Xamarin.Forms
+- 💞️ I’m looking to collaborate on React.js
 - 📫 How to reach me ...
 
 <!---
